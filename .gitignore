@@ -1,0 +1,22 @@
+# Android Studio
+.idea/
+*.iml
+.gradle
+local.properties
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+*.apk
+*.aar
+output.json
+
+# Others
+*.log
+*.lock
+*.bin
+*.class
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
