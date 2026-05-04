@@ -10,7 +10,7 @@ import okhttp3.RequestBody.Companion.toRequestBody
 import kotlinx.serialization.encodeToString
 
 class OpenAIService {
-    private val apiKey = "YOUR_OPENAI_API_KEY" // Replace with your API key
+    private val apiKey = "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" // Replace with your API key
     private val client = OkHttpClient()
     private val json = Json { ignoreUnknownKeys = true }
 
